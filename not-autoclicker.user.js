@@ -202,10 +202,10 @@ const GAME_SETTINGS = {
   minPauseDuration: 60000, // 1 минута
   maxPauseDuration: 180000, // 3 минуты
   pauseUntil: null, // По умолчанию пауза не установлена
-  autoClaimEnabled: false, // По умолчанию автозабор награды выключен
+  autoClaimEnabled: true, // По умолчанию автозабор награды выключен
   autoClaimMinDelay: 120000, // 2 минуты
   autoClaimMaxDelay: 600000, // 10 минут
-  autoChangeColorEnabled: false, // По умолчанию автосмена цвета выключена
+  autoChangeColorEnabled: true, // По умолчанию автосмена цвета выключена
   autoChangeColorMinDelay: 120000, // 2 минуты
   autoChangeColorMaxDelay: 600000 // 10 минут
 };
